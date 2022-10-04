@@ -1,3 +1,3 @@
 # chess-ai
 
-A terminal based Rust engine including an AI
+A terminal based Rust chess engine including an AI
